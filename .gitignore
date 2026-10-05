@@ -217,4 +217,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-echo "\n.DS_Store" >> .gitignore
+.DS_Store
